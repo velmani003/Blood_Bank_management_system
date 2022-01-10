@@ -1,29 +1,40 @@
 <resources>
-    <string name="app_name">Login App</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="swipe_left_for_register">Swipe Left for Register</string>
-    <string name="login">Login</string>
-    <string name="password">Password</string>
-    <string name="e_mail">Email</string>
-    <string name="tag">Let\'s join us and \nBuild your relationship with others</string>
-    <string name="swipe_right_for_login">Swipe Right for Login</string>
-    <string name="register">Register</string>
-    <string name="re_type_password">Re-type Password</string>
-    <string name="your_name">Full Name</string>
-    <string name="hospireg">Hospital Registration</string>
-    <string name="hosname">Enter Hospital</string>
-    <string name="hosmail">Email</string>
-    <string name="hoscity">City</string>
-    <string name="hosno">Phone number</string>
-    <string name="volunname">Full name</string>
-    <string name="volunemail">Email</string>
-    <string name="volunblood">Blood group</string>
-    <string name="volunph">Phone number</string>
-    <string name="volunlocation">Location</string>
-    <string name="volunreg">Volunteer Registration</string>
-    <string name="hosbutton">Register a hospital</string>
-    <string name="volunbecome">Become a volunteer</string>
-    <string name="becomedonor">Become a donor</string>
+    <string name="app_name">Blood_Bank_System</string>
+    <string name="blood_donation_app">Blood Donation App</string>
+    <string name="donate_blood_and_save_lives">Donate blood and save lives!</string>
+    <string name="blood_group">Blood group</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="type">type</string>
+    <string name="full_name">Full name</string>
+    <string name="donors_email">Donors Email</string>
+    <string name="home">Home</string>
+    <string name="blood_groups">Blood Groups</string>
+    <string name="a_positive">A Positive</string>
+    <string name="a_negative">A Negative</string>
+    <string name="b_positive">B Positive</string>
+    <string name="b_negative">B Negative</string>
+    <string name="ab_positive">AB Positive</string>
+    <string name="ab_negative">AB Negative</string>
+    <string name="o_positive">O Positive</string>
+    <string name="o_negative">O Negative</string>
+    <string name="actions">Actions</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="log_out">Log Out</string>
+    <string name="communicate">Communicate</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="bloodgroups">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
 </resources>

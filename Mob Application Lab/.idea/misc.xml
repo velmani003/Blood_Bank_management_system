@@ -3,19 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Mob Application Lab/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.171875" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/drawable/btn_custom.xml" value="0.2703125" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/drawable/et_custom.xml" value="0.2703125" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/drawable/ic_arrow_left.xml" value="0.2703125" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/drawable/ic_arrow_right.xml" value="0.2703125" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/drawable/ic_launcher_background.xml" value="0.171875" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/layout/fragment_login.xml" value="0.264" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/layout/fragment_register.xml" value="0.25416666666666665" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/layout/homepage.xml" value="0.24010416666666667" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/layout/hospitalregistration.xml" value="0.24010416666666667" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/layout/styles.xml" value="0.14166666666666666" />
-        <entry key="..\:/Mob Application Lab/app/src/main/res/layout/volunteerregistration.xml" value="0.24010416666666667" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/drawable/header_background.xml" value="0.14375" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14375" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.14375" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/drawable/navigation_selector.xml" value="0.14375" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.14375" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/layout/activity_donor_registration.xml" value="0.25" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/layout/activity_recipient_registration.xml" value="0.25" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/layout/activity_select_registration.xml" value="0.25" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/layout/activity_splash_screen.xml" value="0.12760416666666666" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/layout/header.xml" value="0.12760416666666666" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/layout/user_displayed_layout.xml" value="0.25" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/menu/main_menu.xml" value="0.12760416666666666" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14375" />
+        <entry key="..\:/Blood_Bank_System/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14375" />
       </map>
     </option>
   </component>

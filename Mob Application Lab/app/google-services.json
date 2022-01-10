@@ -1,92 +1,41 @@
 {
   "project_info": {
-    "project_number": "129140889062",
-    "firebase_url": "https://blood-donation-app-ed01a-default-rtdb.firebaseio.com",
-    "project_id": "blood-donation-app-ed01a",
-    "storage_bucket": "blood-donation-app-ed01a.appspot.com"
+    "project_number": "445500829001",
+    "project_id": "blooddonationapplication-ef681",
+    "storage_bucket": "blooddonationapplication-ef681.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:129140889062:android:97c5bfac0b7b5815cb3227",
+        "mobilesdk_app_id": "1:445500829001:android:b65858b509c86f2ab7be98",
         "android_client_info": {
-          "package_name": "com.blood_bank_management_system.blood_bank"
+          "package_name": "com.blood_bank_system.blood_bank_system"
         }
       },
       "oauth_client": [
         {
-          "client_id": "129140889062-25itjpmva4i720o5kj968qjnegsurm70.apps.googleusercontent.com",
+          "client_id": "445500829001-mg5mvgnkt4g8lpls5f8c8kdidgdtlc21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blood_bank_system.blood_bank_system",
+            "certificate_hash": "3fb01365c2e1f84ec326e21c338cf12b7b24be0b"
+          }
+        },
+        {
+          "client_id": "445500829001-glr9uk7igqnqa2iu2891a84k9srtj500.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBzkrct74BTTxfBD_RBdhBsRqspbIFrPLI"
+          "current_key": "AIzaSyDjeUysQKMEe4sjMFNh79KO5rmg540UkFs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "129140889062-25itjpmva4i720o5kj968qjnegsurm70.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:129140889062:android:029ca4336bd0229dcb3227",
-        "android_client_info": {
-          "package_name": "com.udacity.nanodegree.blooddonation"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "129140889062-25itjpmva4i720o5kj968qjnegsurm70.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBzkrct74BTTxfBD_RBdhBsRqspbIFrPLI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "129140889062-25itjpmva4i720o5kj968qjnegsurm70.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:129140889062:android:aea29220476c813ccb3227",
-        "android_client_info": {
-          "package_name": "com.vinayak09.bloodbankbyvinayak"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "129140889062-25itjpmva4i720o5kj968qjnegsurm70.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBzkrct74BTTxfBD_RBdhBsRqspbIFrPLI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "129140889062-25itjpmva4i720o5kj968qjnegsurm70.apps.googleusercontent.com",
+              "client_id": "445500829001-glr9uk7igqnqa2iu2891a84k9srtj500.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

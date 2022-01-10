@@ -6,5 +6,5 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "Blood_Bank"
+rootProject.name = "Blood_Bank_System"
 include ':app'
